@@ -1,0 +1,6 @@
+# HTML-Dateien immer als HTML erkennen
+*.html linguist-detectable=true
+*.html linguist-language=HTML
+
+# JS-Dateien komplett ignorieren
+*.js   linguist-detectable=false
